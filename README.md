@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm My name is Rishivatsal Mishra</h1>
+<h1 align="center">Hi There 👋, My name is Rishivatsal Mishra</h1>
 
 📖 Currently a third year student pursuing Computer Science in SOA ITER , Bhubaneswar<br>
 🌱 I’m currently learning **DSA and Backend Development and I am interested to explore domains of Devops and Cloud in the future**
